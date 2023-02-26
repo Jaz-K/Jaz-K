@@ -100,5 +100,5 @@
 
 <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky"  media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD)](https://git.io/streak-stats" alt="streak stats" width="35" height="35">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD" alt="streak stats" width="35" height="35">
 </picture>

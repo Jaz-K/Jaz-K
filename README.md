@@ -97,3 +97,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaz-k&show_icons=true&locale=en&theme=transparent&title_color=29a3ad" alt="jaz-k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky" alt="jaz-k" /></p>
+
+<picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky"  media="(prefers-color-scheme: dark)">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD)](https://git.io/streak-stats" alt="streak stats" width="35" height="35">
+</picture>

@@ -102,3 +102,7 @@
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky"  media="(prefers-color-scheme: dark)">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD" alt="streak stats" width="35" height="35">
 </picture>
+
+[![GitHub Streak light mode](https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD#gh-light-mode-only)
+
+[![GitHub Streak dark mode](https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky#gh-dark-mode-only)

@@ -14,11 +14,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <picture>
     <source srcset="https://simpleicons.vercel.app/visualstudiocode/fff"  media="(prefers-color-scheme: dark)">
-    <img src="https://simpleicons.vercel.app/visualstudiocode/000" alt="visual studio code" width="40" height="40">
+    <img src="https://simpleicons.vercel.app/visualstudiocode/29a3ad" alt="visual studio code" width="40" height="40">
 </picture>
 </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <picture>
@@ -86,7 +85,6 @@
     <img src="https://simpleicons.vercel.app/affinity/000" alt="affinity" width="40" height="40">
 </picture>
 </a>
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaz-k&show_icons=true&locale=en&layout=compact" alt="jaz-k" /></p>

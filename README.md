@@ -96,13 +96,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaz-k&show_icons=true&locale=en&theme=transparent&title_color=29a3ad" alt="jaz-k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky" alt="jaz-k" /></p>
-
-<picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky"  media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD" alt="streak stats" width="35" height="35">
-</picture>
-
-[![GitHub Streak light mode](https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD#gh-light-mode-only)
-
-[![GitHub Streak dark mode](https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky#gh-dark-mode-only)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=&ring=29A3AD&currStreakLabel=29A3AD&currStreakNum=898989&sideNums=898989&sideLabels=898989&dates=898989&background=00000000" alt="jaz-k" /></p>

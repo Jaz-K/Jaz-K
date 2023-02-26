@@ -15,48 +15,75 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/visualstudiocode/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/visualstudiocode/000" alt="visual studio code" width="40" height="40">
+</picture>
+</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <picture>
     <source srcset="https://simpleicons.vercel.app/html5/fff"  media="(prefers-color-scheme: dark)">
-    <img src="https://simpleicons.vercel.app/html5/000" width="40" height="40">
+    <img src="https://simpleicons.vercel.app/html5/000" alt="html5" width="40" height="40">
 </picture>
 </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <picture>
     <source srcset="https://simpleicons.vercel.app/css3/fff"  media="(prefers-color-scheme: dark)">
-    <img src="https://simpleicons.vercel.app/css3/000" width="40" height="40">
+    <img src="https://simpleicons.vercel.app/css3/000" alt="css3" width="40" height="40">
 </picture>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
-<a href="https://https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://ico.vercel.app/handlebarsdotjs/fff/#gh-dark-mode-only" alt="handlebars" width="40" height="40"/> </a>
-
-<a href="https://https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://ico.vercel.app/handlebarsdotjs/000/#gh-light-mode-only" alt="handlebars" width="40" height="40"/> </a>
-
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-
-<a href="https://https://handlebarsjs.com/" target="_blank" rel="noreferrer">
+</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <picture>
-    <source srcset="https://simpleicons.vercel.app/adobe/fff"  media="(prefers-color-scheme: dark)">
-    <img src="https://simpleicons.vercel.app/adobe/000" width="40" height="40">
+    <source srcset="https://simpleicons.vercel.app/javascript/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/javascript/000" alt="javascript" width="40" height="40">
+</picture>
+</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/nodedotjs/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/nodedotjs/000" alt="node.js" width="40" height="40">
+</picture>
+</a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/express/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/express/000" alt="express" width="40" height="40">
+</picture>
+</a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/postgresql/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/postgresql/000" alt="postgresql" width="40" height="40">
+</picture>
+</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/react/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/react/000" alt="react.js" width="40" height="40">
+</picture>
+</a> <a href="https://https://handlebarsjs.com/" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/handlebarsdotjs/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/handlebarsdotjs/000" alt="handlebars.js" width="40" height="40">
+</picture>
+</a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/vuedotjs/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/vuedotjs/000" alt="vue.js" width="40" height="40">
+</picture>
+</a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/adobephotoshop/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/adobephotoshop/000" alt="adobe photoshop" width="40" height="40">
+</picture>
+</a> <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/adobeillustrator/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/adobeillustrator/000" alt="adobe illustrator" width="40" height="40">
+</picture>
+</a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/adobexd/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/adobexd/000" alt="adobe xd" width="40" height="40">
+</picture>
+</a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/affinity/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/affinity/000" alt="affinity" width="40" height="40">
 </picture>
 </a>
 

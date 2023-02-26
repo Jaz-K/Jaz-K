@@ -19,7 +19,8 @@
     <source srcset="https://simpleicons.vercel.app/visualstudiocode/fff"  media="(prefers-color-scheme: dark)">
     <img src="https://simpleicons.vercel.app/visualstudiocode/29a3ad" alt="visual studio code" width="35" height="35">
 </picture>
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <picture>
     <source srcset="https://simpleicons.vercel.app/html5/fff"  media="(prefers-color-scheme: dark)">
     <img src="https://simpleicons.vercel.app/html5/000" alt="html5" width="35" height="35">
@@ -73,6 +74,11 @@
 <picture>
     <source srcset="https://simpleicons.vercel.app/adobeillustrator/fff"  media="(prefers-color-scheme: dark)">
     <img src="https://simpleicons.vercel.app/adobeillustrator/000" alt="adobe illustrator" width="35" height="35">
+</picture>
+</a> <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/adobeindesign/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/adobeindesign/000" alt="adobe indesign" width="35" height="35">
 </picture>
 </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
 <picture>

@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jaz</h1>
 <h3 align="center">A passionate frontend developer and graphic designer from Hamburg, Germany</h3>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://dev.to/jazk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaz-k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jasmin-köhler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmin-köhler" height="30" width="40" /></a>
 <a href="https://instagram.com/j_angelique_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_angelique_k" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">:hammer_and_wrench: Languages and Tools:</h2>
+<h2 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>
 <p align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <picture>
@@ -88,7 +88,8 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaz-k&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jaz-k" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaz-k&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=29a3ad" alt="jaz-k" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaz-k&show_icons=true&locale=en&theme=transparent" alt="jaz-k" /></p>
 

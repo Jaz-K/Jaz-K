@@ -96,4 +96,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaz-k&show_icons=true&locale=en&theme=transparent&title_color=29a3ad" alt="jaz-k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=transparent&title_color=29a3ad" alt="jaz-k" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaz-k&theme=dark-smoky" alt="jaz-k" /></p>

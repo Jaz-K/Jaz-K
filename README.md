@@ -44,8 +44,8 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 
 <picture>
-    <source srcset="https://simpleicons.vercel.app/adobe/fff"  media="(prefers-color-scheme: dark)">
-    <img src="https://simpleicons.vercel.app/adobe/000">
+    <source srcset="https://simpleicons.vercel.app/adobe/000"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/adobe/fff" width="40" height="40">
 </picture>
 
 </p>

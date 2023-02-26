@@ -17,12 +17,12 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <picture>
     <source srcset="https://simpleicons.vercel.app/visualstudiocode/fff"  media="(prefers-color-scheme: dark)">
-    <img src="https://simpleicons.vercel.app/visualstudiocode/29a3ad" alt="visual studio code" width="35" height="35">
+    <img src="https://simpleicons.vercel.app/visualstudiocode/29a3ad" alt="visual studio code" width="35" height="35" margin-right="5">
 </picture>
 </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <picture>
     <source srcset="https://simpleicons.vercel.app/html5/fff"  media="(prefers-color-scheme: dark)">
-    <img src="https://simpleicons.vercel.app/html5/29a3ad" alt="html5" width="35" height="35">
+    <img src="https://simpleicons.vercel.app/html5/29a3ad" alt="html5" width="35" height="35" margin-right="5">
 </picture>
 </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <picture>

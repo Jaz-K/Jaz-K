@@ -15,7 +15,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/html5/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/html5/000" width="40" height="40">
+</picture>
+</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<picture>
+    <source srcset="https://simpleicons.vercel.app/css3/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/css3/000" width="40" height="40">
+</picture>
+</a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
@@ -43,10 +53,12 @@
 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 
+<a href="https://https://handlebarsjs.com/" target="_blank" rel="noreferrer">
 <picture>
-    <source srcset="https://simpleicons.vercel.app/adobe/000"  media="(prefers-color-scheme: dark)">
-    <img src="https://simpleicons.vercel.app/adobe/fff" width="40" height="40">
+    <source srcset="https://simpleicons.vercel.app/adobe/fff"  media="(prefers-color-scheme: dark)">
+    <img src="https://simpleicons.vercel.app/adobe/000" width="40" height="40">
 </picture>
+</a>
 
 </p>
 

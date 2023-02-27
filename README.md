@@ -1,12 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jaz</h1>
 <h3 align="center">A passionate frontend developer and graphic designer from Hamburg, Germany</h3>
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">:link: Connect with me :link:</h2>
 
 <p align="center">
 <a href="https://dev.to/jazk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaz-k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jasmin-köhler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmin-köhler" height="30" width="40" /></a>
 <a href="https://instagram.com/j_angelique_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_angelique_k" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<!-- -   🔭 I’m currently working on **my own** -->
+-   🌱 I’m currently learning on different platforms **Udemy, codewars, freecodecamp**
+-   🎯 Future projects **website for our poker regular table **
+-   ⚡ Fun fact **Typos are my worst enemy**
+-   🧐 Hobbies **cooking, rock climbing, tinkering, gaming**
+</p>
+
+<p align="right" width="50%">
+<img src="/src/rubberduck.png" alt="my rubber duck">
 </p>
 
 <h2 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>

@@ -9,15 +9,12 @@
 <a href="https://instagram.com/j_angelique_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_angelique_k" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-<!-- -   🔭 I’m currently working on **my own** -->
 -   🌱 I’m currently learning on different platforms **Udemy, codewars, freecodecamp**
 -   🎯 Future projects **website for our poker regular table **
 -   ⚡ Fun fact **Typos are my worst enemy**
 -   🧐 Hobbies **cooking, rock climbing, tinkering, gaming**
-</p>
 
-<p align="right" width="50%">
+<p align="right" width="35%">
 <img src="/src/rubberduck.png" alt="my rubber duck">
 </p>
 

@@ -9,7 +9,7 @@
 <a href="https://instagram.com/j_angelique_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_angelique_k" height="30" width="40" /></a>
 </p>
 
-<img src="/src/rubberduck.png" alt="my rubber duck" align="right" width="200">
+<img src="/src/rubberduck.png" alt="my rubber duck" align="right" width="200" height="200">
 
 <p>
 

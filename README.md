@@ -9,13 +9,13 @@
 <a href="https://instagram.com/j_angelique_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_angelique_k" height="30" width="40" /></a>
 </p>
 
+<img src="/src/rubberduck.png" alt="my rubber duck" align="right" width="200">
+
 -   🌱 I’m currently learning on different platforms
     -   **Udemy, codewars, freecodecamp**
 -   🎯 Future projects **website for our poker regular table**
 -   ⚡ Fun fact **Typos are my worst enemy**
 -   🧐 Hobbies **cooking, rock climbing, tinkering, gaming**
-
-<img src="/src/rubberduck.png" alt="my rubber duck" align="right" width="200">
 
 <h2 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>
 

@@ -14,10 +14,15 @@
 <p>
 
 -   🌱 I’m currently learning on different platforms
+
     -   **Udemy, codewars, freecodecamp**
+
 -   🎯 Future projects **website for our poker regular table**
+
 -   ⚡ Fun fact **Typos are my worst enemy**
+
 -   🧐 Hobbies **cooking, rock climbing, tinkering, gaming**
+
 </p>
 
 <br />

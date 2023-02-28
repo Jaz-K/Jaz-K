@@ -12,6 +12,7 @@
 <img src="/src/rubberduck.png" alt="my rubber duck" align="right" width="200" height="200">
 
 <p>
+
 -   🚀 Made a Full Stack Web Dev Bootcamp - SPICED Academy
 
 -   🌱 I’m currently learning further on different platforms

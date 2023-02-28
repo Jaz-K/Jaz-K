@@ -1,7 +1,7 @@
-<h1 align="left">Hi there 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaz-k&label=Profile%20views&color=29a3ad&style=flat" alt="jaz-k" /> </p>
+<h1 align="left">Hi there 👋</h1>
 
-<h3 align="left">I'm Jasmin but everybody calls me Jaz. Recently finished the **Full Stack Web Development Bootcamp**, interested in **Front End Web Development**, previously worked as a **Graphic Designer**. Looking forward to learning more and getting a Job.</h3>
+<h3 align="left">I'm Jasmin but everybody calls me Jaz. Recently finished the <em>Full Stack Web Development Bootcamp</em>, interested in <em>Front End Web Development</em>, previously worked as a <em>Graphic Designer</em>. Looking forward to learning more and getting a Job.</h3>
 
 <h2 align="left">:link: Connect with me</h2>
 

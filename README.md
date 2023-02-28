@@ -12,17 +12,19 @@
 <img src="/src/rubberduck.png" alt="my rubber duck" align="right" width="200" height="200">
 
 <p>
+-   🚀 Made a Full Stack Web Dev Bootcamp - SPICED Academy
 
--   🌱 I’m currently learning on different platforms
+-   🌱 I’m currently learning further on different platforms
 
     -   **Udemy, codewars, freecodecamp**
 
 -   🎯 Future projects **website for our poker regular table**
 
--   ⚡ Fun fact **Typos are my worst enemy**
-
 -   🧐 Hobbies **cooking, rock climbing, tinkering, gaming**
 
+-   ☠️ Enemy **Typos**
+
+-   ⚡ Fun fact **Its possible to watch aurora borealis in northern Germany**
 </p>
 
 <br />

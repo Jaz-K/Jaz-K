@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jaz</h1>
-<h3 align="center">A passionate frontend developer and graphic designer from Hamburg, Germany</h3>
+<h1 align="left">Hi there 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaz-k&label=Profile%20views&color=29a3ad&style=flat" alt="jaz-k" /> </p>
 
-<h2 align="center">:link: Connect with me :link:</h2>
+<h3 align="left">I'm Jasmin but everybody calls me Jaz. Recently finished the **Full Stack Web Development Bootcamp**, interested in **Front End Web Development**, previously worked as a **Graphic Designer**. Looking forward to learning more and getting a Job.</h3>
 
-<p align="center">
+<h2 align="left">:link: Connect with me</h2>
+
+<p align="left">
 <a href="https://dev.to/jazk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaz-k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jasmin-köhler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmin-köhler" height="30" width="40" /></a>
 <a href="https://instagram.com/j_angelique_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_angelique_k" height="30" width="40" /></a>
 </p>
+
+<h2 align="left">😀 About me</h2>
 
 <img src="/src/rubberduck.png" alt="my rubber duck" align="right" width="200" height="200">
 
@@ -30,11 +34,11 @@
 
 <br />
 
-<h2 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>
+<h2 align="left">:hammer_and_wrench: Languages and Tools</h2>
 
 <br />
 
-<p align="center">
+<p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <picture>
     <source srcset="https://simpleicons.vercel.app/visualstudiocode/fff"  media="(prefers-color-scheme: dark)">
@@ -115,10 +119,10 @@
 
 <br />
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaz-k&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=29a3ad" alt="jaz-k" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaz-k&show_icons=true&locale=en&theme=transparent&title_color=29a3ad" alt="jaz-k" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jaz-k&show_icons=true&locale=en&theme=transparent&title_color=29a3ad" alt="jaz-k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jaz-k&ring=29A3AD&currStreakLabel=29A3AD&currStreakNum=898989&sideNums=898989&sideLabels=898989&dates=898989&background=00000000" alt="jaz-k" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=jaz-k&ring=29A3AD&currStreakLabel=29A3AD&currStreakNum=898989&sideNums=898989&sideLabels=898989&dates=898989&background=00000000" alt="jaz-k" /></p>

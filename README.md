@@ -2,14 +2,13 @@
 <h1 align="left">Hi there 👋</h1>
 
 <h3 align="left">I'm Jasmin but everybody calls me Jaz. Recently finished the <em>Full Stack Web Development Bootcamp</em>, interested in <em>Front End Web Development</em>, previously worked as a <em>Graphic Designer</em>. Looking forward to learning more and getting a Job.</h3>
-
-<h2 align="left">:link: Connect with me</h2>
-
 <p align="left">
-<a href="https://dev.to/jazk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaz-k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jasmin-köhler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmin-köhler" height="30" width="40" /></a>
 <a href="https://instagram.com/j_angelique_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_angelique_k" height="30" width="40" /></a>
+<a href="https://dev.to/jazk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaz-k" height="30" width="40" /></a>
 </p>
+
+<br />
 
 <h2 align="left">😀 About me</h2>
 

@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaz-k&label=Profile%20views&color=29a3ad&style=flat" alt="jaz-k" /> </p>
 <h1 align="left">Hi there 👋</h1>
 
-<h3 align="left">I'm Jasmin but everybody calls me Jaz. Recently finished the <em>Full Stack Web Development Bootcamp</em>, interested in <em>Front End Web Development</em>, previously worked as a <em>Graphic Designer</em>. Looking forward to learning more and getting a Job.</h3>
+<h3 align="left">I'm Jasmin, but everybody calls me Jaz. I recently finished the <em>Full Stack Web Development Bootcamp</em> at the SPICED academy , and I'm interested in working in <em>Front End Web Development</em>. Previously I worked as a <em>Graphic Designer</em> in web related B2B & B2C businesses. I'm looking forward to learning more and am looking forward to finding a job in this new field.</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasmin-köhler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmin-köhler" height="30" width="40" /></a>
 <a href="https://instagram.com/j_angelique_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_angelique_k" height="30" width="40" /></a>
@@ -16,13 +16,13 @@
 
 <p>
 
--   🚀 Made a Full Stack Web Dev Bootcamp - SPICED Academy
+-   🚀 I completed the Full Stack Web Dev Bootcamp - SPICED Academy
 
--   🌱 I’m currently learning further on different platforms
+-   🌱 I’m currently expanding my knowledge on different platforms
 
     -   **Udemy, codewars, freecodecamp**
 
--   🎯 Future projects **website for our poker regular table**
+-   🎯 Future projects **website for our regular poker competition**
 
 -   🧐 Hobbies **cooking, rock climbing, tinkering, gaming**
 
